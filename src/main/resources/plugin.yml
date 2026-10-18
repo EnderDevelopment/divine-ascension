@@ -1,0 +1,13 @@
+name: GodPlugin
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+author: EnderDevelopment
+description: A plugin where you play as gods with god powers and weapons.
+api-version: "1.21"
+commands:
+  godmode:
+    description: Toggle god mode.
+    usage: /godmode
+  summonweapon:
+    description: Summon a god weapon.
+    usage: /summonweapon
